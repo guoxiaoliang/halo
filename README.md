@@ -110,3 +110,6 @@ java -jar halo-latest.jar
 ![admin-themes.png](https://i.loli.net/2019/09/11/FVA953Ljswd4c8G.png)
 
 ![admin-options.png](https://i.loli.net/2019/09/11/TK6SeMdVj1xcrDw.png)
+
+## 个人
+阿梁拉的分支
